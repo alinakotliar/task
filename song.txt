@@ -52,3 +52,6 @@ Thunderstruck, thunderstruck
 You've been thunderstruck
 
 First commit to feature branch
+First commit to feature branch
+
+Second commit to feature branch
